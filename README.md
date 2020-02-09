@@ -1,1 +1,1 @@
-# Image-Processing-Examples
+# Signal-Processing-Examples
